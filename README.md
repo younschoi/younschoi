@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am currently working on Python EDA projects.
+Looking for Music Audio Machine Learning projects. 
+Interested in algorithmic music composition. 
+
 <!--
 **younschoi/younschoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
